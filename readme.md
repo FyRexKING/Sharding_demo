@@ -1,4 +1,4 @@
-So just completed the sharding part from Hussien nasser and was well fascinated by the idea of why not to shard...Opened my mind pretty much and after seeing a lot of examples on over engineering by sharding perhaps It is a good time to actually impelement a mini scale sharding system'.
+So just completed the sharding part from Hussien nasser course  and was well fascinated by the idea of why not to shard...Opened my mind pretty much and after seeing a lot of examples on over engineering by sharding perhaps It is a good time to actually impelement a mini scale sharding system'.
 
 Lets take into consideration using the techstack of the project:
 Node.js
